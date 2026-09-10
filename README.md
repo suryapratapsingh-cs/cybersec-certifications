@@ -6,9 +6,12 @@ Welcome to my cybersecurity knowledge repository! This space tracks my learning 
 
 | Certification | Provider | Focus Area | Status | Target Date |
 | :--- | :--- | :--- | :--- | :--- |
-| **CompTIA Security+** | CompTIA | Core Security Principles | 🟡 In Progress | 2026 |
-| **eJPT** | INE Security | Practical Pen Testing | 🟡 In Progress | 2027 |
-| **PortSwigger Web Security** | PortSwigger | Web App Vulnerabilities | 🟡 In Progress | 2027 |
+| **Google Cybersecurity Cert** | Coursera / Google | Fundamentals & Scripting | 🟡 In Progress | Q1 2026 |
+| **ISC2 Certified in Cybersecurity (CC)** | ISC2 | Entry Security Governance | 🔴 Planned | Q2 2026 |
+| **CompTIA Network+** | CompTIA | Core Networking & Protocols | 🔴 Planned | Q3 2026 |
+| **CompTIA Security+** | CompTIA | Core Security Principles | 🔴 Planned | Q4 2026 |
+| **eJPT** | INE Security | Practical Pen Testing | 🔴 Planned | 2027 |
+| **PortSwigger Web Security** | PortSwigger | Web App Vulnerabilities | 🔴 Planned | 2027 |
 | **OSCP** | OffSec | Advanced Offensive Security | 🔴 Planned | 2028 |
 
 ## 🏆 Industry Certification Matrix (Tier 1 - Tier 5)
